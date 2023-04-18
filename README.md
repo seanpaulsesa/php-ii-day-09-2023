@@ -9,6 +9,5 @@
         ✅Ketikan Localhost/phpmyadmin
         ✅Buat Folder di dalam htdocs
         ✅Buka Visual studio Code
-        ✅Panggil folder yang dibuat
-        dalam htdocs
+        ✅Panggil folder yang dibuat dalam htdocs
         ✅Buat File file php
